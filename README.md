@@ -1,10 +1,7 @@
 ipa_pack
 ========
 
-iOS多渠道打包工具
-
-
-打包工具 [ipa_pack.sh](http://)	使用说明
+iOS多渠道打包工具使用说明:
 
 （1） 修改project－Info.plist文件，增加渠道标识字段
 
